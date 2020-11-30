@@ -25,3 +25,8 @@ transporter.sendMail(mailOptions, function(error, info) {
   }
 });
 
+// Settings to establish location for app
+
+// User interface settings
+
+// 
